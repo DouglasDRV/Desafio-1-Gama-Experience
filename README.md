@@ -51,7 +51,7 @@ Estimativa total da Sprint 3: `5 horas`
 
 Estimativa: `2 horas`
 
-Estimativa tota5 da1 hora
+Estimativa total da sprint 4: `2 horas`
 
 ### Sprint 5
 - Demais testes
