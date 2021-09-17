@@ -61,4 +61,4 @@ Estimativa: `1 hora`
 
 Estimativa total da Sprint 5: `1 hora`
 
-Estimativa total do projeto: `16 horas e 30 minutos`
+Estimativa total do Projeto: `16 horas e 30 minutos`
